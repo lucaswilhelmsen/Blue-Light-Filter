@@ -8,7 +8,7 @@ Because this app is not notarized by Apple, macOS may show an “unverified deve
 ## Download (macOS)
 [Download latest release](https://github.com/lucaswilhelmsen/Blue-Light-Filter/releases/latest)
 
-## Install (macOS)
+## Installation Guide (macOS)
 1. Download the `BlueLightFilter-macOS.zip` file from the link above.
 2. Unzip it.
 3. Drag `Blue Light Filter.app` into `Applications`.
