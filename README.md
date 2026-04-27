@@ -1,5 +1,4 @@
-<img width="384" height="256" alt="ChatGPT Image Apr 27, 2026, 08_37_40 AM (1)" src="https://github.com/user-attachments/assets/4d4301fd-5dfc-4811-a03f-92328558768d" />
-<img width="161.5" height="178" alt="Screenshot 2026-04-26 at 09 42 12" src="https://github.com/user-attachments/assets/9ec32007-6ec1-4226-9b77-e3cc13f31139" />
+<img width="768" height="512" alt="ChatGPT Image Apr 27, 2026, 08_37_40 AM (3)" src="https://github.com/user-attachments/assets/6861c980-4b78-4049-aed4-d89cd943944c" />
 
 
 # Blue Light Filter
