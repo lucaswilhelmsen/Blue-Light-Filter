@@ -1,4 +1,4 @@
-<img width="384" height="256" alt="blue-picture" src="https://github.com/user-attachments/assets/47073c72-09c6-416c-b78f-d6a47a8b7305" />
+<img width="484" height="356" alt="blue-picture" src="https://github.com/user-attachments/assets/47073c72-09c6-416c-b78f-d6a47a8b7305" />
 
 
 # Blue Light Filter
